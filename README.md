@@ -8,3 +8,14 @@ Design a Clear & Intuitive Dashboard,Apply visual hierarchy and alignment princi
 
 ## Data sets used
  - <a href="https://app.mavenanalytics.io/guided-projects/72ec0a0d-bc7d-4ac4-a8da-da811f9061d6">Data set </a>
+
+## Questions (KPI'S)
+Total Revenue – Overall sales across stores
+Total Transactions / Orders – Number of orders processed
+Average Order Value (AOV) – Revenue per transaction
+Revenue by Month – Trend of sales over time
+Transactions by Day of Week – Identifying busy and slow days
+Transactions by Hour of Day – Peak hours analysis
+Revenue & Transactions by Product Category – Category performance
+Top 15 Product Types by Revenue – Most profitable products
+Store Location Performance – Dynamic comparison using slicers
