@@ -28,3 +28,44 @@ Top 15 Product Types by Revenue – Most profitable products
 
 Store Location Performance – Dynamic comparison using slicers
 
+
+## Dashboard interaction 
+<a href="https://github.com/tokaramadan/Coffee-Shop-Dashboard-/blob/main/github%20photo.png">View Dashboard</a>
+
+## Process
+Data Preparation
+
+Collected and cleaned sales data (transactions, products, stores, dates, revenue).
+
+Ensured consistency in product names, categories, and store locations.
+
+PivotTables & PivotCharts
+
+Created PivotTables for key metrics (Revenue, Transactions, Product Performance).
+
+Built PivotCharts to visualize trends over time and comparisons across categories.
+
+Dashboard Design
+
+Organized charts and tables following visual hierarchy and reading patterns (Z-pattern/F-pattern).
+
+Designed a clean, intuitive layout with logical placement of charts:
+
+Revenue trend line chart at the top
+
+Transactions by day of week and hour
+
+Product category and top 15 products
+
+Added slicers for store location to enable dynamic filtering across all charts.
+
+Formatting & Polish
+
+Aligned charts and tables for a professional look
+
+Simplified colors and fonts for readability
+
+Hid raw PivotTables and removed worksheet gridlines
+
+Added descriptive titles and labels to enhance storytelling
+
