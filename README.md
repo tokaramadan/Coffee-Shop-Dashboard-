@@ -1,4 +1,5 @@
 # Coffe shop Data Analysis
+## project objectives
 Analyze Sales Performance,Understand overall revenue trends across months and stores.
 Monitor Customer Behavior,Identify peak hours and busiest days of the week for better operational planning.
 Evaluate Product Performance,Determine top-selling categories and top 15 product types by revenue.
