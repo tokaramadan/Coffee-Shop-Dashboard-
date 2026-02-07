@@ -5,3 +5,6 @@ Monitor Customer Behavior,Identify peak hours and busiest days of the week for b
 Evaluate Product Performance,Determine top-selling categories and top 15 product types by revenue.
 Enable Dynamic Insightsm,Use slicers for store location to allow interactive filtering and comparison.
 Design a Clear & Intuitive Dashboard,Apply visual hierarchy and alignment principles to make the dashboard easy to read and interpret.
+
+## Data sets used
+ https://app.mavenanalytics.io/guided-projects/72ec0a0d-bc7d-4ac4-a8da-da811f9061d6
