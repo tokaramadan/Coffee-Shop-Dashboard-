@@ -7,4 +7,4 @@ Enable Dynamic Insightsm,Use slicers for store location to allow interactive fil
 Design a Clear & Intuitive Dashboard,Apply visual hierarchy and alignment principles to make the dashboard easy to read and interpret.
 
 ## Data sets used
- https://app.mavenanalytics.io/guided-projects/72ec0a0d-bc7d-4ac4-a8da-da811f9061d6
+ - <a href="https://app.mavenanalytics.io/guided-projects/72ec0a0d-bc7d-4ac4-a8da-da811f9061d6">Data set </a>
